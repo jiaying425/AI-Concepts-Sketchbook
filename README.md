@@ -4,6 +4,15 @@ A visual sketchbook for understanding AI systems: from classic deep learning mod
 
 This repository is a public portfolio of AI concept diagrams and engineering sketches. The goal is to make complex AI ideas easier to reason about visually, while keeping the work-in-progress quality of a real learning notebook.
 
+## How This Repo Is Organized
+
+The repo separates **concepts** from **engineering** because they answer different questions.
+
+- [`concepts`](concepts/) explains how AI ideas work: transformers, RAG, agents, and classic model families.
+- [`engineering`](engineering/) shows how AI systems are built, evaluated, operated, and improved: harnesses, memory, tools, observability, evals, gates, and iteration loops.
+
+In short: `concepts/` is the "how it works" layer, and `engineering/` is the "how to make it useful and reliable" layer.
+
 ## Learning Path
 
 1. **Classic Deep Learning Models**  
