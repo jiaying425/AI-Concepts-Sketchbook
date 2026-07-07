@@ -49,6 +49,7 @@ Most sketches are stored as `.drawio` or `.excalidraw` files so they can be open
 
 Planned exports:
 
+- `.svg` for crisp GitHub previews
 - `.png` for GitHub preview
 - `.pdf` for portfolio sharing
 

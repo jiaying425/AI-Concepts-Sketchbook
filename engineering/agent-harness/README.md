@@ -2,6 +2,10 @@
 
 This section contains an engineering-oriented sketch of how an AI agent system can be operated, evaluated, and improved.
 
+## Preview
+
+![Agent Harness and Engineering](../../exports/svg/agent-harness-and-engineering.svg)
+
 The diagram connects:
 
 - prompts
@@ -22,6 +26,7 @@ The diagram connects:
 ## Files
 
 - [`agent-harness-and-engineering.excalidraw`](agent-harness-and-engineering.excalidraw)
+- [`agent-harness-and-engineering.svg`](../../exports/svg/agent-harness-and-engineering.svg)
 
 ## Portfolio Framing
 
