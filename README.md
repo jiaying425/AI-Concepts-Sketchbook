@@ -21,7 +21,10 @@ This repository is a public portfolio of AI concept diagrams and engineering ske
 5. **Agent Engineering**
    Architecture sketches for harnesses, memory systems, guardrails, tool calls, evals, traces, observability, gates, and release workflows.
 
-6. **Product Sketches**
+6. **LLM Evals and Observability**
+   Operational sketches for tracing, judge-based scoring, release gates, and iteration from feedback.
+
+7. **Product Sketches**
    Early product and roadmap thinking around AI Studio-style workflows.
 
 ## Repository Map
@@ -33,12 +36,14 @@ This repository is a public portfolio of AI concept diagrams and engineering ske
 | [`concepts/rag`](concepts/rag/) | Retrieval-augmented generation concept sketch |
 | [`concepts/ai-agents`](concepts/ai-agents/) | AI agent architecture and tool-use sketch |
 | [`engineering/agent-harness`](engineering/agent-harness/) | Agent harness, memory, evaluation, and release engineering |
+| [`engineering/evals-and-observability`](engineering/evals-and-observability/) | LLM evals, tracing, observability, release gates, and feedback loops |
 | [`product-sketches/ai-studio-roadmap`](product-sketches/ai-studio-roadmap/) | AI product roadmap brainstorming |
 | [`exports`](exports/) | Future PNG and PDF exports for easier previewing |
 
 ## Featured Sketches
 
 - **Agent Harness and Engineering**: an advanced system sketch connecting prompts, memory, RAG, tool calls, guardrails, evals, observability, and release gates.
+- **LLM Evals and Observability**: a feedback loop for traces, judge-based scoring, metrics, gates, release, and iteration.
 - **Transformer Workflow**: a visual walk-through of transformer internals and GPT-style parameter calculations.
 - **RAG**: a compact view of retrieval pipelines and the relevance questions behind top-k search.
 - **What Is an AI Agent**: a high-level map of agents, tools, workflows, databases, APIs, and generation capabilities.
