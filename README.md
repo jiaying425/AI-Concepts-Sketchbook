@@ -8,45 +8,37 @@ This repository is a public portfolio of AI concept diagrams and engineering ske
 
 The repo separates **concepts** from **engineering** because they answer different questions.
 
-- [`concepts`](concepts/) explains how AI ideas work: transformers, RAG, agents, and classic model families.
+- [`concepts`](concepts/) explains how AI ideas work: model foundations, RAG, and agents.
 - [`engineering`](engineering/) shows how AI systems are built, evaluated, operated, and improved: harnesses, memory, tools, observability, evals, gates, and iteration loops.
 
 In short: `concepts/` is the "how it works" layer, and `engineering/` is the "how to make it useful and reliable" layer.
 
 ## Learning Path
 
-1. **Classic Deep Learning Models**  
-   Visual notes on CNNs, RNNs, GANs, and reinforcement learning.
+1. **AI Model Foundations**  
+   Visual notes on classic deep learning models and transformer architecture, from CNNs, RNNs, GANs, and reinforcement learning to tokenization, embeddings, attention, feedforward layers, and parameter intuition.
 
-2. **Transformer Foundations**  
-   Sketches covering tokenization, embeddings, positional encoding, decoder-only architecture, attention, feedforward layers, and parameter intuition.
-
-3. **Retrieval-Augmented Generation**
+2. **Retrieval-Augmented Generation**
    A concept map for chunks, embeddings, vectors, vector databases, semantic search, retrieval logic, and top-k relevance tradeoffs.
 
-4. **AI Agents**
+3. **AI Agents**
    System-level sketches of LLM agents, prompts, memory, tools, APIs, planning, and reasoning loops.
 
-5. **Agent Engineering**
+4. **Agent Engineering**
    Architecture sketches for harnesses, memory systems, guardrails, tool calls, evals, traces, observability, gates, and release workflows.
 
-6. **LLM Evals and Observability**
+5. **LLM Evals and Observability**
    Operational sketches for tracing, judge-based scoring, release gates, and iteration from feedback.
-
-7. **Product Sketches**
-   Early product and roadmap thinking around AI Studio-style workflows.
 
 ## Repository Map
 
 | Section | Description |
 | --- | --- |
-| [`concepts/deep-learning-classics`](concepts/deep-learning-classics/) | CNN, RNN, GAN, and RL concept sketch |
-| [`concepts/transformers`](concepts/transformers/) | Transformer workflow and GPT-style parameter intuition |
+| [`concepts/model-foundations`](concepts/model-foundations/) | Classic deep learning models and transformer foundations |
 | [`concepts/rag`](concepts/rag/) | Retrieval-augmented generation concept sketch |
 | [`concepts/ai-agents`](concepts/ai-agents/) | AI agent architecture and tool-use sketch |
 | [`engineering/agent-harness`](engineering/agent-harness/) | Agent harness, memory, evaluation, and release engineering |
 | [`engineering/evals-and-observability`](engineering/evals-and-observability/) | LLM evals, tracing, observability, release gates, and feedback loops |
-| [`product-sketches/ai-studio-roadmap`](product-sketches/ai-studio-roadmap/) | AI product roadmap brainstorming |
 | [`exports`](exports/) | Future PNG and PDF exports for easier previewing |
 
 ## Featured Sketches
