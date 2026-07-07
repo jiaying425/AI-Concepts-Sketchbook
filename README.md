@@ -34,7 +34,6 @@ This repository is a public portfolio of AI concept diagrams and engineering ske
 | [`concepts/ai-agents`](concepts/ai-agents/) | AI agent architecture and tool-use sketch |
 | [`engineering/agent-harness`](engineering/agent-harness/) | Agent harness, memory, evaluation, and release engineering |
 | [`product-sketches/ai-studio-roadmap`](product-sketches/ai-studio-roadmap/) | AI product roadmap brainstorming |
-| [`archive/business-sketches`](archive/business-sketches/) | Earlier business/domain sketches preserved for context |
 | [`exports`](exports/) | Future PNG and PDF exports for easier previewing |
 
 ## Featured Sketches
