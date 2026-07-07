@@ -4,7 +4,7 @@ This section contains an engineering-oriented sketch of how an AI agent system c
 
 ## Preview
 
-![Agent Harness and Engineering](../../exports/svg/agent-harness-and-engineering.svg)
+![Agent Harness and Engineering](../../exports/png/agent-harness-and-engineering.png)
 
 The diagram connects:
 
@@ -26,7 +26,7 @@ The diagram connects:
 ## Files
 
 - [`agent-harness-and-engineering.excalidraw`](agent-harness-and-engineering.excalidraw)
-- [`agent-harness-and-engineering.svg`](../../exports/svg/agent-harness-and-engineering.svg)
+- [`agent-harness-and-engineering.png`](../../exports/png/agent-harness-and-engineering.png)
 
 ## Portfolio Framing
 

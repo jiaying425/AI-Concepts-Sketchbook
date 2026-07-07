@@ -2,9 +2,8 @@
 
 This folder is reserved for portfolio-friendly previews.
 
-Recommended future exports:
+Recommended exports:
 
-- `svg/` for crisp GitHub previews
 - `png/` for GitHub README previews
 - `pdf/` for sharing and presentation
 
